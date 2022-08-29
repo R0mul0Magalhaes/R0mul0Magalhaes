@@ -1,11 +1,25 @@
  Hello 
 - 👋 Hi, I’m @R0mul0Magalhaes
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-R0mul0Magalhaes/R0mul0Magalhaes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+ <a href="https://github.com/r0mul0magalhaes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r0mul0magalhaes&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0mul0magalhaes&layout=compact&langs_count=7&theme=light"/>
+</div>
+
+<br>
+
+<div>
+ <img align="center" alt="Romulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Romulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>
+
+<div>
+  <a href="https://instagram.com/r0mul0magalhaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ </a>
+ 
+ <a href="https://discord.gg/KF27eenF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
