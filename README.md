@@ -30,6 +30,6 @@
  <a href="https://www.linkedin.com/in/r%C3%B4mulo-magalh%C3%A3es-b01280245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=blank></a> 
  
   
-<a href = "mailto:romulomagalhaes1@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:romulomagalhaes1@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
