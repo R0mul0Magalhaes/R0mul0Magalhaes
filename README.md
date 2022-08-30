@@ -22,12 +22,12 @@
 
 <div>
 
-   <a href="https://instagram.com/r0mul0magalhaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   <a href="https://instagram.com/r0mul0magalhaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=blank>
   </a>
 
-  <a href="https://discord.gg/KF27eenF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/KF27eenF" target=blank><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target=blank></a>
 
- <a href="https://www.linkedin.com/in/r%C3%B4mulo-magalh%C3%A3es-b01280245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/r%C3%B4mulo-magalh%C3%A3es-b01280245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=blank></a> 
  
   
 <a href = "mailto:romulomagalhaes1@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
