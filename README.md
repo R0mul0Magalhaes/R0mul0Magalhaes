@@ -1,6 +1,6 @@
-### Olá, eu sou Romulo
+<h1>Olá, eu sou Romulo Magalhães</h1>
 
-##👋 Estudando Desenvolvimento Web
+<h2>👋 Estudando Desenvolvimento Web</h2>
 
 <div>
  <a href="https://github.com/r0mul0magalhaes">
