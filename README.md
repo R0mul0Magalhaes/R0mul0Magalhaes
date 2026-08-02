@@ -1,6 +1,6 @@
 <h1>Olá, eu sou Romulo Magalhães</h1>
 
-<h2>👋 Estudando Desenvolvimento Web</h2>
+<h2>👋 Estudando Desenvolvimento FullStack</h2>
 
 <div>
  <a href="https://github.com/r0mul0magalhaes">
